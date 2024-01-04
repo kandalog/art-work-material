@@ -23,7 +23,7 @@ export default function Home() {
       />
       <Artwork
         src="/yohitomonara/hothousedoll.png"
-        text="Hothouse Doll, 1995"
+        text="Hot House Doll, 1995"
       />
       <Artwork
         src="/yohitomonara/longest night.png"
