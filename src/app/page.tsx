@@ -84,21 +84,21 @@ export default function Home() {
       />
       <h2 className="text-4xl py-1">teamLab</h2>
       <Artwork
-        src="/teamLab/Forest of Resonating Lamps - One Stroke.png"
-        text="Forest of Resonating Lamps-One Stroke (2016)"
+        src="/teamLab/teamLab Ultra Subjective Space.png"
+        text="Ultrasubjective Space 2001"
       />
       <Artwork src="/teamLab/Ginza Firefly.png" text="Ginza Firefly, 2002" />
       <Artwork
-        src="/teamLab/teamLab Ultra Subjective Space.png"
-        text="Ultrasubjective Space 2001"
+        src="/teamLab/100 Years Sea Animation Diorama.png"
+        text="100 Years Sea (2009)"
       />
       <Artwork
         src="/teamLab/四季千年神田図 - 田染荘 : Four Seasons, a 1000 Years, Terraced Rice Fields - Tashibunosho.png"
         text="Four Seasons, a 1000 Years, Terraced Rice Fields - Tashibunosho 2016"
       />
       <Artwork
-        src="/teamLab/100 Years Sea Animation Diorama.png"
-        text="100 Years Sea (2009)"
+        src="/teamLab/Forest of Resonating Lamps - One Stroke.png"
+        text="Forest of Resonating Lamps-One Stroke (2016)"
       />
       <Artwork
         src="/teamLab/Resonating Forest and Autonomous Resonating Life - Tadasu Forest at Shimogamo Shrine.png"
