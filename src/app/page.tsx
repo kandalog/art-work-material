@@ -38,11 +38,11 @@ export default function Home() {
         src="/morimariko/Tea Ceremony II.png"
         text="Tea Ceremony II, 1994"
       />
+      <Artwork src="/morimariko/Play with Me.png" text="Play with Me, 1994" />
       <Artwork
         src="/morimariko/Tea Ceremony |||.png"
         text="Tea Ceremony III, 1995."
       />
-      <Artwork src="/morimariko/Play with Me.png" text="Play with Me, 1994" />
       <Artwork
         src="/morimariko/Birth of a Start.png"
         text="Birth of a Star, 1995"
