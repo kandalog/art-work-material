@@ -70,12 +70,12 @@ export default function Home() {
       />
       <h2 className="text-4xl py-1">Morimura Yasumasa</h2>
       <Artwork
-        src="/kusama and shiota/Obliteration Room.png"
-        text="Obliteration Room (自己消滅) 2002"
-      />
-      <Artwork
         src="/kusama and shiota/Infinity Rooms.png"
         text="Infinity Rooms 1965"
+      />
+      <Artwork
+        src="/kusama and shiota/Obliteration Room.png"
+        text="Obliteration Room (自己消滅) 2002"
       />
       <h2 className="text-4xl py-1">Shiota Chiharu</h2>
       <Artwork
