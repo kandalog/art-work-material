@@ -68,7 +68,7 @@ export default function Home() {
         src="/morimurayasumasa/Requirm for Something.png"
         text="Requiem for Something, 2006"
       />
-      <h2 className="text-4xl py-1">Morimura Yasumasa</h2>
+      <h2 className="text-4xl py-1">Kusama Yayoi</h2>
       <Artwork
         src="/kusama and shiota/Infinity Rooms.png"
         text="Infinity Rooms 1965"
