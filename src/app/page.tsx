@@ -6,6 +6,17 @@ export default function Home() {
     <>
       <h2 className="text-4xl py-1">Murakami Takashi</h2>
       <Artwork
+        src="/murakamitakashi/murakamitakashi.png"
+        text="1962年, 東京生まれ, 東京芸術大学卒, 日本画専攻, 博士号, 漫画やイラストに興味がある"
+      />
+      <p className="p-2 shadow-custom">
+        Mr. DOB: 彼が作成したネズミみたいなキャラクターのこと
+        <br />
+        superflat: (2000年に彼が生み出した用語) It refers to both the “flatness”
+        of Japanese art, as well as a “flattening” of art cultures– mixing high
+        and low, different time periods, etc
+      </p>
+      <Artwork
         src="/murakamitakashi/andthen.png"
         text="And then, and then and then and then and then (Blue). (1994)"
       />
@@ -13,6 +24,16 @@ export default function Home() {
       <Artwork src="/murakamitakashi/supernova.png" text="Supernova, 1999" />
       <Artwork src="/murakamitakashi/500 Arhats.png" text="500 Arhats, 2012" />
       <h2 className="text-4xl py-1">Nara Yoshitomo</h2>
+      <Artwork
+        src="/yohitomonara/narayoshitomo.png"
+        text="1959年, 青森育ち ドイツで芸術を学ぶ, 東京とLAでgallery exhibitionを学ぶ, 2000年に横浜博物館でsolo展覧会を開催"
+      />
+      <p className="p-2 shadow-custom">
+        Cool Japan: It is a general term for Japanese pop culture, such as
+        anime, manga, games, music, and fashion.
+        <br />
+        kawaii: cute, sweet, adorable, innocent, pure, simple, weak
+      </p>
       <Artwork
         src="/yohitomonara/whereismycat.png"
         text="Where is My Cat?, 1995"
@@ -34,14 +55,23 @@ export default function Home() {
         text="Knife Behind Back, 2000"
       />
       <Artwork
-        src="/public/yohitomonara/Fountain of Life, 2001:2014.png"
+        src="/yohitomonara/Fountain of Life, 2001:2014.png"
         text="Fountain of Life, 2001/2014"
       />
       <Artwork
-        src="/public/yohitomonara/Midnight Truth, 2017.png"
+        src="/yohitomonara/Midnight Truth, 2017.png"
         text="Midnight Truth, 2017"
       />
       <h2 className="text-4xl py-1">Mori Mariko</h2>
+      <Artwork
+        src="/morimariko/morimariko.png"
+        text="1967年 東京生まれ, 文化服装学院卒, ファッションモデルとして活躍した際、ロンドンとニューヨークで勉強、ロンドンに戻りChelsea大学で芸術でデザインについて勉強"
+      />
+      <p className="p-2 shadow-custom">
+        モダンガール or モガ:
+        家の外に仕事を持つ未婚の女性、頻繁にカフェに行き、流行りの西洋の服を購入する
+        経済的に自立している女性
+      </p>
       <Artwork
         src="/morimariko/Tea Ceremony II.png"
         text="Tea Ceremony II, 1994"
@@ -56,6 +86,13 @@ export default function Home() {
         text="Birth of a Star, 1995"
       />
       <h2 className="text-4xl py-1">Morimura Yasumasa</h2>
+      <p className="p-2 shadow-custom">
+        1951年大阪生まれ
+        <br />
+        京都芸術大学卒 写真に興味があった
+        <br />
+        Ernest Satowの助手を務めた
+      </p>
       <Artwork
         src="/morimurayasumasa/Tabletop City (Arch of Triumph).png"
         text="Tabletop City (Arch of Triumph) 1984"
@@ -77,6 +114,14 @@ export default function Home() {
         text="Requiem for Something, 2006"
       />
       <h2 className="text-4xl py-1">Kusama Yayoi</h2>
+      <p className="p-2 shadow-custom">
+        1929年 東京生まれ、京都芸大卒, 世界で最も稼いでいる芸術家,
+        ニューヨークに住んでいたが日本に帰ってきた。キャリアの継続に苦労したが、現在は日本で最も重要な、いや世界で最も重要な存命な芸術家
+      </p>
+      <p className="p-2 shadow-custom">
+        Installation art:
+        物体ではなく状況、観客は完成のために参加することが求められる。観客は作品の一部になる
+      </p>
       <Artwork
         src="/kusama and shiota/Infinity Rooms.png"
         text="Infinity Rooms 1965"
@@ -86,15 +131,23 @@ export default function Home() {
         text="Obliteration Room (自己消滅) 2002"
       />
       <h2 className="text-4xl py-1">Shiota Chiharu</h2>
+      <p className="p-2 shadow-custom">
+        1972年生まれ, 京都精華大学卒, ベルリンで勉強経験,
+        初期の作品は彼女の教授Maria
+        Abramovicに影響を受けたパフォーマンス作品だった
+      </p>
       <Artwork
         src="/kusama and shiota/The Key in the Hand.png"
         text="The Key in the Hand, 2015 Venice Biennale"
       />
       <Artwork
-        src="/public/kusama and shiota/Navigating the Unknown, 2020.png"
+        src="/kusama and shiota/Navigating the Unknown, 2020.png"
         text="Navigating the Unknown, 2020"
       />
       <h2 className="text-4xl py-1">teamLab</h2>
+      <p className="p-2 shadow-custom">
+        2001年に5名からスタートし、今では600名以上のメンバーがいる
+      </p>
       <Artwork
         src="/teamLab/teamLab Ultra Subjective Space.png"
         text="Ultrasubjective Space 2001"
