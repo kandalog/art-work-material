@@ -90,6 +90,10 @@ export default function Home() {
         src="/kusama and shiota/The Key in the Hand.png"
         text="The Key in the Hand, 2015 Venice Biennale"
       />
+      <Artwork
+        src="/public/kusama and shiota/Navigating the Unknown, 2020.png"
+        text="Navigating the Unknown, 2020"
+      />
       <h2 className="text-4xl py-1">teamLab</h2>
       <Artwork
         src="/teamLab/teamLab Ultra Subjective Space.png"
