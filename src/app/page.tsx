@@ -186,6 +186,38 @@ export default function Home() {
         src="/Chim Pom/LEVEL 7 feat 'Myth of Tomorrow'.png"
         text="LEVEL 7 feat 'Myth of Tomorrow' 2011"
       />
+      <h2 className="text-4xl py-1">その他</h2>
+      <Artwork
+        src="/others/harakiri school girl.png"
+        text="Makoto Aida, Harakiri School Girls, 1999"
+      />
+      <p className="p-2 shadow-custom">
+        Beginning in the late 1950s and 1960s <br />
+        <br />
+        ART MOVEMENT: “Movement” refers to a group of artists who share a
+        similar motivation, theme, or style, and are working during the same
+        specific cultural moment or time period.
+        <br />
+        <br />
+        Pop Art:
+        アートがどうあるべきかという議題に取り組んでいる。漫画や日用品など人気な文化や大衆文化からideaを借りることが多い
+        <br />
+        <br />
+        Minimalism: It is simple geometric shapes based on the square and the
+        rectangle
+        <br />
+        <br />
+        Conceptual Art: 完成した作品よりも、作品の背後にあるアイデア or
+        コンセプトがより重要である作品。作品の技術で判断することはできない。日用品をよく使う
+        <br />
+        <br />
+        Performance Art
+        芸術家、もしくは他人がアクションやパフォーマンスで表現した作品
+        <br />
+        <br />
+        Conceptual Artに近いため、アイデアはより重要である Video Art
+        表現の種としてビデオテクノロジーを用いている表現方法
+      </p>
     </>
   );
 }
