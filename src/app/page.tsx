@@ -33,6 +33,14 @@ export default function Home() {
         src="/yohitomonara/knife behind back.png"
         text="Knife Behind Back, 2000"
       />
+      <Artwork
+        src="/public/yohitomonara/Fountain of Life, 2001:2014.png"
+        text="Fountain of Life, 2001/2014"
+      />
+      <Artwork
+        src="/public/yohitomonara/Midnight Truth, 2017.png"
+        text="Midnight Truth, 2017"
+      />
       <h2 className="text-4xl py-1">Mori Mariko</h2>
       <Artwork
         src="/morimariko/Tea Ceremony II.png"
