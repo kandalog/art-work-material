@@ -114,6 +114,13 @@ export default function Home() {
         src="/teamLab/megaliths in the bath house ruins.png"
         text="Megaliths in the Bath House Ruins"
       />
+      <h2 className="text-4xl py-1">Chim Pom</h2>
+      <Artwork src="/Chim Pom/Super Rat.png" text="Super Rat 2008" />
+      <Artwork src="/Chim Pom/REAL TIMES.png" text="REAL TIMES 2011" />
+      <Artwork
+        src="/Chim Pom/LEVEL 7 feat 'Myth of Tomorrow'.png"
+        text="LEVEL 7 feat 'Myth of Tomorrow' 2011"
+      />
     </>
   );
 }
