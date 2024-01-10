@@ -40,6 +40,13 @@ export default function Questions() {
         set a new tone for violence in mainstream comics
       </Question>
       <Question
+        question="Mooreの解釈によれば人生をひっくり返して殺人狂に帰るのに必要なのは何ですか？"
+        important
+      >
+        According to Moore, It need only really very bad day to turn your life
+        upside down and turn you into a homicidal maniac
+      </Question>
+      <Question
         question="A Death in the FamilyではJokerに拷問を受けた後Robinが死亡しますが、その際何が行われましたか？"
         important
       >
