@@ -48,15 +48,15 @@ export default function Home() {
         <br />
         脚本: Alan Moore
         <br />
-        作画: Kevin O'Neill
+        作画: Kevin O Neill
         <br />
-        "A graphic novel series depicting a superhero team based on fictional
-        characters from the Victorian age literature."
+        &quot;A graphic novel series depicting a superhero team based on
+        fictional characters from the Victorian age literature.&quot;
         <br />
         <br />
         # A Death in the Family (バッドマン)
         <br />
-        担当者: "Marv Wolfman"と"Jim Aparo"
+        担当者: &quot;Marv Wolfman&quot;と&quot;Jim Aparo&quot;
         <br />
         バッドマンのサイドキックRobinの死が電話投票で決定した
         <br />
