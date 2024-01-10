@@ -18,7 +18,9 @@ export default function Questions() {
         question="Watchmenにおける世界観理解のための工夫は？(2つ)"
         important
       >
-        各号の最後に架空の新聞記事や本の抜粋が掲載されていて、Watchmenの世界についてさらに背景情報が提供されている。
+        At the end of each issue fictional newspaper articles and excerpts form
+        books provide to know more background information for the world of
+        Watchmen.
         <br />
         作中の脇役キャラクターが読む架空の海賊コミック「Tales of the Black
         Freighter」もより複雑さを追加している。
@@ -35,7 +37,7 @@ export default function Questions() {
         question="Batman Killing JokeでJokerは何をした？ この話で設けた新たな基準は？"
         important
       >
-        Barbara Gordon(別名Batgirl)を撃ち彼女は腰から下が麻痺する
+        Joker shot Barbara Gordon. She injured and paralyzed lower body.
         <br />
         set a new tone for violence in mainstream comics
       </Question>
