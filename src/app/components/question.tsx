@@ -9,14 +9,14 @@ type Props = {
 };
 
 export const Question = ({ question, children, important }: Props) => {
-  const [isShow, setIsShow] = useState(false);
+  const [isShow, setIsShow] = useState(true);
 
   return (
     <div
       className={`shadow-custom cursor-pointer mt-2 ${
         important && "border-2 border-red-500"
       }`}
-      onClick={() => setIsShow((prev) => !prev)}
+      // onClick={() => setIsShow((prev) => !prev)}
     >
       <p className="p-1">{question}</p>
       {isShow ? (
