@@ -18,6 +18,9 @@ export const Navigation = () => {
       <Link className="p-1 ml-1" href="/remainder">
         余暇
       </Link>
+      <Link className="p-1 ml-1" href="/quiz">
+        クイズ
+      </Link>
     </div>
   );
 };

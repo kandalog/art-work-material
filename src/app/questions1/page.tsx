@@ -5,7 +5,6 @@ export default function Questions() {
   return (
     <>
       <Navigation />
-
       <Question question="Alan Mooreの説明とその代表的な経歴について">
         He is British writer, occultist, magician, and anarchist. He is
         considered the greatest writer of graphic fiction in the English
