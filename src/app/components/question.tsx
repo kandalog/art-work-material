@@ -13,7 +13,7 @@ export const Question = ({ question, children, important }: Props) => {
 
   return (
     <div
-      className={`shadow-custom cursor-pointer mt-2 ${
+      className={`shadow-custom cursor-pointer mt-3 ${
         important && "border-2 border-red-500"
       }`}
       // onClick={() => setIsShow((prev) => !prev)}
