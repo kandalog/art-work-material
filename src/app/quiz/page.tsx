@@ -1,4 +1,5 @@
 "use client";
+import { Navigation } from "../components/navigation";
 import { Question } from "./question";
 
 const questions = [
@@ -74,6 +75,7 @@ for (let i = questions.length - 1; 0 < i; i--) {
 export default function Quiz() {
   return (
     <>
+      <Navigation />
       {questions.map((question) => (
         <Question
           key={question.question}
