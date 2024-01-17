@@ -1,3 +1,4 @@
+"use client";
 import { Question } from "./question";
 
 const questions = [
