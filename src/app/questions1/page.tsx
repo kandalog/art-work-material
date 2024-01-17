@@ -5,18 +5,38 @@ export default function Questions() {
   return (
     <>
       <Navigation />
+
+      <Question question="Alan Mooreの説明とその代表的な経歴について">
+        He is British writer, occultist, magician, and anarchist. He is
+        considered the greatest writer of graphic fiction in the English
+        language. He created Watchmen which is the most influential graphic
+        novel ever. He is also the author of 2 novels which are 「Voice of the
+        Fire」 and 「Jerusalem」
+      </Question>
+      <Question question="Miraclemanの誕生秘話">
+        Originally created as Marvelman, a British substitute for Captain
+        Marvel. Moore revived this character in Warrior. Moore made a silly
+        comic book hero from the Golden Age into a dark, post-modern superhero
+        called Miracleman. Miracleman started Moore’s incredible career in
+        graphic fiction and comics would never be the same.
+      </Question>
+      <Question question="The Saga of the Swamp ThingにおけるMooreの貢献は？">
+        Moore took over this comic on the crisis of cancellation and redefine.
+        The original concept of Swamp Thing, scientist Alec Holland being turned
+        into a plant monster, was now a plant creature who thought he was human
+      </Question>
+      <Question question="Alan Moore's Lovecraft trilogy3部の名前">
+        The Courtyard, Neonomicon, Providence
+      </Question>
       <Question question="WatchmenにおけるDave Gibbonsの作画の特徴は？">
-        ほぼ厳格な9コマ構成の仕様(almost stringent use of a 9-panel page.)
-        <br />
-        結果として、とても複雑でテキストの多いスタイルが生み出された
+        It is the almost stringent use of a 9-panel page. This results in a very
+        complex, text heavy style of graphic narrative.
       </Question>
       <Question question="Watchmenにおける世界観理解のための工夫は？(2つ)">
         At the end of each issue fictional newspaper articles and excerpts form
         books provide to know more background information for the world of
-        Watchmen.
-        <br />
-        作中の脇役キャラクターが読む架空の海賊コミック「Tales of the Black
-        Freighter」もより複雑さを追加している。
+        Watchmen. Add, the fictional book 「Tales of the Black Freighter」 in
+        the story enhance complex.
       </Question>
       <Question question="From HellでMooreはJack the Ripperを漫画にするのにどのような説を利用した?">
         ・Moore uses the popular theory that royal surgeon Sir William Gull was
@@ -38,14 +58,15 @@ export default function Questions() {
       </Question>
       <Question question="Batman: The Dark Night Returnsでは何が起きた? (2つ)">
         1 Batman cannot kill the Joker, Joker suicide by snapping his own spine.
-        2 スーパーマンとバットマンが決闘した
+        <br />2 スーパーマンとバットマンが決闘した
       </Question>
       <Question question="Flank Millerが初めてNYを訪れた時に体験したことは？">
-        NYを訪れた時いくつかの漫画ののサンプルを持参したが、編集者に(Where are
-        the guys in
-        tight?)と言われた。その方法を学ぶ必要があると考えたが、Daredevilのsignature
-        artistのGen
-        Colanがleftすることをしって、チャンスだと思い、担当できるように努力して担当者として起用された
+        When Miller visited New York first, He have a samples of guys in trench
+        coats and old cars and such. Comic editors said, 「Where are the guys in
+        tights?」. Miller considered that I had to learn how to do it. But as
+        soon as a title came along, when Gen Colan left Daredevil, He realized
+        it was chance of creating superhero comics. So He lobbied for the title
+        and got it.
       </Question>
       {/*  */}
     </>
